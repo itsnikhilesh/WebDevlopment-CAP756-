@@ -1,0 +1,10 @@
+.h1{
+	border-width: 2;
+	color: red;
+	align-content: center;
+}
+.header{
+        align-content: center;
+        color: blue;
+        border-width: 2px;
+}
